@@ -36,3 +36,7 @@ Web Developement | Cloud Development(Currently learning AWS)
 - 📫 How to reach me: Twitter(@Ken_Vinay)
 - 😄 Pronouns: he/him
 -->
+
+  ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@kenchamvin19292/30-nites-of-code)  
+  ![@kenchamvin19292 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kenchamvin19292)

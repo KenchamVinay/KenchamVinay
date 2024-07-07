@@ -26,14 +26,13 @@ Web Developement
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 </div>
 
-🔭 I’m currently working on A Pomodoro Timer.
-🌱 Currently learning JavaScript, Git, GitHub, and React.
-👯 Open to working on projects related to my skills.
-🤔 Looking for guidance with React.
-📫 Reach me on Twitter - @Ken_Vinay
+- 🔭 I’m currently working on A Pomodoro Timer.
+- 🌱 Currently learning JavaScript, Git, GitHub, and React.
+- 👯 Open to working on projects related to my skills.
+- 🤔 Looking for guidance with React.
+- 📫 Reach me on Twitter - @Ken_Vinay
 
 Feel free to check out my projects and reach out if you'd like to collaborate or have any questions. Happy coding!
--->
 
 ###30NitesOfCode: 
   ![@kenchamvinay #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kenchamvinay)

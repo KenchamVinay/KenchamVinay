@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-Hello, My name is Kencham Vinay, I graduated from Chennai institute of technology in Computer Science and Engineering.
-
-I have a huge interest in Web Development and Cloud Computing! Currently studying Git, Github, AWS to improve my skill set and looking for opportunities to apply my skills for real world projects.
-
-Passionate about delving into diverse technologies to acquire knowledge that contributes to improving human welfare and actively working towards societal advancement.
+Hello, My name is Kencham Vinay, I am a Computer Science and Engineering graduate. I have a huge interest in Web Development! 
+Trying to learn some Japanese too.
 
 **Skills**
 
-Web Developement | Cloud Development(Currently learning AWS)
+Web Developement
 
 **Tools:**
 
@@ -29,14 +26,15 @@ Web Developement | Cloud Development(Currently learning AWS)
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 </div>
 
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Git and GitHub.
-- 👯 I’m looking to collaborate on Beginner Open Source projects.
-- 🤔 I’m looking for help with Studying frameworks such as React, Flask e.t.c. 
-- 📫 How to reach me: Twitter(@Ken_Vinay)
-- 😄 Pronouns: he/him
+🔭 I’m currently working on A Pomodoro Timer.
+🌱 Currently learning JavaScript, Git, GitHub, and React.
+👯 Open to working on projects related to my skills.
+🤔 Looking for guidance with React.
+📫 Reach me on Twitter - @Ken_Vinay
+
+Feel free to check out my projects and reach out if you'd like to collaborate or have any questions. Happy coding!
 -->
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@kenchamvinay/30-nites-of-code)  
+###30NitesOfCode: 
   ![@kenchamvinay #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kenchamvinay)
+  [Check out my progress!](https://www.codedex.io/@kenchamvinay/30-nites-of-code) 
